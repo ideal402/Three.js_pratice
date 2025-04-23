@@ -11,8 +11,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@react-three/fiber": "^9.1.2",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "three": "^0.176.0"
   },
   "devDependencies": {
     "@babel/core": "^7.26.10",
